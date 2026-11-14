@@ -1,4 +1,4 @@
-# Clouds Against Humanity - sova-nova
+# Clouds Against Humanity - sova
 
 A small, cheap, locked-down DigitalOcean environment built with OpenTofu, applied by Spacelift, fed secrets by Doppler, and reachable only through Twingate. **No droplet has a single public inbound port open.** There is no VPN, no bastion host and no SSH on the internet.
 
